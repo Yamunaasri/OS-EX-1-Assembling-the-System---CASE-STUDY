@@ -13,6 +13,7 @@ To assemble the system.
 
 
 3.Install the CPU Cooler: Attach the CPU cooler according to the manufacturer's instructions.
+
 ![image](https://github.com/Yamunaasri/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/115707860/24d8c8ba-50db-42be-b804-f7d93da32734)
 
 4.Install RAM (Random Access Memory): Align the notch on the RAM stick with the slot on the motherboard.
